@@ -4,8 +4,8 @@ name: on-every-push
 
 # Controls when the workflow will run
 on:
-  push:
-    branches: ["main"]  # Triggers on pushes to main branch
+#  push:
+#    branches: ["main"]  # Triggers on pushes to main branch
   
   
   
