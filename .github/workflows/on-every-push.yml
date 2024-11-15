@@ -1,3 +1,5 @@
+# This is a basic workflow trigger on every push
+
 name: on-every-push
 
 # Controls when the workflow will run
