@@ -5,7 +5,7 @@
 # This workflow can also be used to provide information on every push into a releasable branch (e.g., master).
 # This workflow can also be used on a scheduled basis.
 
-name: Open Source Scan
+name: FOSSA Scan
 
 on: 
   workflow_call:
