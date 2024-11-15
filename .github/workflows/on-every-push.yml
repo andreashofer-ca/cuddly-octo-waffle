@@ -1,4 +1,4 @@
-# This is a basic workflow trigger on every push
+# This is a basic workflow triggered on every push
 
 name: on-every-push
 
